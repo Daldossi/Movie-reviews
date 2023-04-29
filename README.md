@@ -6,11 +6,10 @@ The aim of my project is to implement a sentiment analysis trhough a multinomial
 the movie reviews written by the users of the IMDB website (www.imdb.com); in particular I will predict the polarity of the reviews 
 distinguishing the positive comments (class 1) from the negative ones (class 0).
 
-1_build vocabulary.py
-
-2_feature extraction.py
-
-3_train classifier.py
-
-4_comparison SVM.py
-
+A_BuildVocabulary.py
+B_FeatureExtraction.py
+C_TrainClassifier.py
+D_Analysis
+F_DictionarySize.py
+G_Comparison.py
+porter.py : a library that helps me apply the stemming method
